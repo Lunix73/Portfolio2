@@ -24,9 +24,9 @@ ul { /* Hej*/
     list-style-type: none;
 }
 
-li {
+/*li {
     float: left;
-}
+}*/
 
 li a {
     color: black;
